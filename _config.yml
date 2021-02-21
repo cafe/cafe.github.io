@@ -26,7 +26,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-octicons
-  - jekyll-github-metadata
+#  - jekyll-github-metadata
 
 titles_from_headings:
   enabled:     true
