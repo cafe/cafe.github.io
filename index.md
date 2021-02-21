@@ -1,3 +1,3 @@
-## Welcome to Cafe's Blog
+## Welcome to Cafe
 
 路漫漫其修远兮，吾将上下而求索。
