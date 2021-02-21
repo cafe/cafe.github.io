@@ -6,6 +6,7 @@
 
 
 [^1]: https://www.fast.ai/2020/01/16/fast_template/ Your own hosted blog, the easy, free, open way (even if you're not a computer expert)
+
 [^2]: https://www.leiphone.com/news/202001/vUa8xUOdghgXQJWQ.html 无需编写代码，利用GitHub搭建全免费个人博客
 
 
