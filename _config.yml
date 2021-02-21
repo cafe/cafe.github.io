@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Cafe
-description: 个人随想 & 随笔，记录每日点滴，赋生命予意义。
+description: 路漫漫其修远兮，吾将上下而求索。
 github_username: cafe
 
 # Email and twitter are optional:
@@ -21,7 +21,8 @@ use_math: true
 google_analytics:
 
 # Everything below here can be ignored, unless you want to change the theme entirely
-theme: minima
+# GitHub Pages supported themes: Architect, Cayman, Dinky, Hacker, Leap day, Merlot, Midnight, Minima, Minimal, Modernist, Slate, Tactile, Time machine
+theme: hacker 
 plugins:
   - jekyll-feed
   - jekyll-gist
