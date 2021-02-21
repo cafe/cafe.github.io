@@ -22,7 +22,7 @@ google_analytics:
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 # GitHub Pages supported themes: Architect, Cayman, Dinky, Hacker, Leap day, Merlot, Midnight, Minima, Minimal, Modernist, Slate, Tactile, Time machine
-theme: hacker 
+theme: dinky 
 plugins:
   - jekyll-feed
   - jekyll-gist
