@@ -23,14 +23,14 @@ google_analytics:
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
 plugins:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-octicons
-  - jekyll-github-metadata
+#  - jekyll-feed
+#  - jekyll-gist
+#  - jekyll-octicons
+#  - jekyll-github-metadata
 
 titles_from_headings:
   enabled:     true
-  strip_title: true
+  strip_title: false
   collections: true
 
 highlighter: rouge
