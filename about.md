@@ -9,3 +9,5 @@
 ——_李宗盛《山丘》_
 
 **余生不过数万日，当努力生活，勉力记录。**
+
+![Image of weixin logo](images/logo.jpg)
