@@ -11,7 +11,7 @@
 万事俱备，写起来！
 
 ## 注：
-Fast.ai之后又推出了功能更强大的[fastpages](https://github.com/fastai/fastpages)，功能丰富强大，如可以使用Word和Jupyter Notebook格式，还支持博文置顶，站内搜索等功能。当然，目前对于我来说，内容大于形式，这个仅支持Markdown的[fast_template](https://github.com/cafe/fast_template)就挺好。
+Fast.ai之后又推出了功能更强大的[fastpages](https://github.com/fastai/fastpages)，功能丰富强大，如可以使用Word和Jupyter Notebook格式，还支持博文置顶，站内搜索等功能。当然，目前对于我来说，内容大于形式，这个仅支持Markdown的[fast_template](https://github.com/fastai/fast_template)就挺好。
 
 
 Just Write!!!
