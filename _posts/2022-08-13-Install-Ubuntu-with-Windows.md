@@ -10,7 +10,7 @@
 
 ## Wubi安装Ubuntu
 
-- [GitHub](github.com/hakuna-m/wubiuefi/releases)下载wubi
+- [GitHub](https://github.com/hakuna-m/wubiuefi/releases)下载wubi
 - 下载对应系统iso文件（如通过官网或[异次元软件世界](https://dl.iplaysoft.com/files/5700.html)->点击页面`选择下载地址`），放在上述wubi工具同一个文件夹内
 - 安装时选择了支持最大选择256GB（最大数值可能与当前的硬盘空闲大小有关），在wubi界面可以直接设置一个简单短小的Linux用户密码方便使用
 - 安装好后，在Windows中下载安装easybcd工具，调整系统启动顺序，可将Ubuntu设为默认启动项。（注意：使用easybcd是比较危险的操作，千万不要删除启动项）
