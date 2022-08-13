@@ -3562,7 +3562,7 @@ from plotly.express import line
 #### Covid deaths by continent:
 
 ![Covid Deaths](images/covid_deaths.png)
-<div id="2a950764-39fc-416d-97fe-0a6226a3095f" class="plotly-graph-div" style="height:340px; width:100%;"></div>
+<!-- <div id="2a950764-39fc-416d-97fe-0a6226a3095f" class="plotly-graph-div" style="height:340px; width:100%;"></div> -->
 
 ```python
 covid = pd.read_csv('https://covid.ourworldindata.org/data/owid-covid-data.csv',
@@ -3581,7 +3581,7 @@ line(df, x='Date', y='Total Deaths per Million', color='Continent').show()
 #### Confirmed covid cases, Dow Jones, Gold, and Bitcoin price:
 
 ![Covid Cases](images/covid_cases.png)
-<div id="e23ccacc-a456-478b-b467-7282a2165921" class="plotly-graph-div" style="height:315px; width:100%;"></div>
+<!-- <div id="e23ccacc-a456-478b-b467-7282a2165921" class="plotly-graph-div" style="height:315px; width:100%;"></div> -->
 
 ```python
 import pandas as pd
