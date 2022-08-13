@@ -1,5 +1,5 @@
 
-# Ubuntu 20.04: Install Wubi98
+# Ubuntu 22.04: Install Wubi98
 
 ## Links
 
