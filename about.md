@@ -132,6 +132,7 @@ Set
 ### Frozen Set
 * **Is immutable and hashable.**
 * **That means it can be used as a key in a dictionary or as an element in a set.**
+
 ```python
 <frozenset> = frozenset(<collection>)
 ```
@@ -140,6 +141,7 @@ Set
 Tuple
 -----
 **Tuple is an immutable and hashable list.**
+
 ```python
 <tuple> = ()                                # Empty tuple.
 <tuple> = (<el>,)                           # Or: <el>,
@@ -253,6 +255,7 @@ Type
 ```
 
 #### Some types do not have built-in names, so they must be imported:
+
 ```python
 from types import FunctionType, MethodType, LambdaType, GeneratorType, ModuleType
 ```
