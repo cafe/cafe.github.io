@@ -1,10 +1,13 @@
 
-# Ubuntu 20.04安装98五笔
+# Ubuntu 20.04: Install Wubi98
 
 ## Links
-1. [官网：98wubi](http://www.98wubi.com/zhinan.html)
-2. [下载：网盘地址](http://98wb.ysepan.com/)
-3. [操作：Bilibili视频](https://www.bilibili.com/video/BV1y3411H78p)
+
+All the following resources => [repo](https://github.com/cafe/wubi98)
+
+1. [Official site: 98wubi](http://www.98wubi.com/zhinan.html)
+2. [Resources](http://98wb.ysepan.com/)
+3. [Instructions](https://www.bilibili.com/video/BV1y3411H78p)
 
 ## Steps
 - Download files `Ubuntu-22.04-LTS.tar.xz`, `font-98wb.tar.xz` from link(2) (folder "Mac-Linux-iOS" and "拆分/超集字体")
